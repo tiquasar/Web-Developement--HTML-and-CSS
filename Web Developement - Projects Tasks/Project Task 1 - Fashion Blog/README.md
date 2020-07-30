@@ -1,5 +1,5 @@
-# Web-Developement--Technocolab-Tasks-and-Projects
-# Project Task 1
+
+
 <h2>Fashion Blog</h2>
 <b>Project Task 1 Details:</b>
 <p> Your friend Isa is a budding fashion blogger, and she’s asked you to build her a new website, just in time for New York Fashion Week!
